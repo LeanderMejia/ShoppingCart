@@ -1,0 +1,9 @@
+Admin | admin | adminPass
+Customer | leander@gmail.com | customer1
+Customer | catriona@gmail.com | cat123
+Customer | gerard@gmail.com | dead
+
+
+
+
+
